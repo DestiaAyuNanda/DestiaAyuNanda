@@ -117,7 +117,6 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
   color: white;
   float: right;
@@ -128,6 +127,7 @@ header {
 }
 
 .lesson-wrapper {
+  height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
